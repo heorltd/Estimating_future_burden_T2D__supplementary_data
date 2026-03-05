@@ -550,4 +550,4 @@ See LICENSE.md
 
 For questions about the model, please contact:
 
-[thomas.padgett\@heor.co.uk](mailto:thomas.padgett@heor.co.uk){.email}
+[thomas.padgett\@heor.co.uk](mailto:thomas.padgett@heor.co.uk)
