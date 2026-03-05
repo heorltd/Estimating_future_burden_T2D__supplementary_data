@@ -1,4 +1,4 @@
-# T2D TSV Engine - Minimal Implementation
+# Supplementary data for the manuscript: Estimating the future burden of T2D
 
 ## Note
 
@@ -6,11 +6,7 @@ Please see license file.
 
 ## Overview
 
-This is a minimal, standalone implementation of the Type 2 Diabetes
-(T2D) Total System Value (TSV) engine. The model simulates the
-progression of Type 2 Diabetes in a population over time, tracking
-health outcomes, complications, and the effects of different treatment
-scenarios.
+This repository contains a minimal, standalone implementation of the Type 2 Diabetes (T2D) Total System Value (TSV) engine. The model simulates the progression of Type 2 Diabetes in a population over time, tracking health outcomes, complications, and the effects of different treatment scenarios.
 
 **Quick Links:**
 
