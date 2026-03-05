@@ -1,4 +1,4 @@
-# Supplementary data for the manuscript: Estimating the future burden of T2D
+# Supplementary data for the manuscript: Estimating the future burden of Type 2 Diabetes
 
 ## Note
 
@@ -52,7 +52,7 @@ system of ordinary differential equations) that:
 ## Repository Structure
 
 ```         
-T2D_Engine_Minimal/
+Estimating_future_burden_T2D__supplementary_data/
 ├── README.md                              # This file
 ├── run_T2D_model.R                        # Main script to run the model
 ├── outputs/                               # Output data (CSV files)
@@ -544,19 +544,10 @@ If you use this model in academic work, please cite:
 
 ## License
 
-[License information to be added]
+See LICENSE.md
 
 ## Contact
 
 For questions about the model, please contact:
 
 [thomas.padgett\@heor.co.uk](mailto:thomas.padgett@heor.co.uk){.email}
-
-## Version History
-
--   **v1.0** (2026-03-03): Initial minimal implementation for manuscript
-    submission
-    -   Core T2D TSV engine
-    -   Five intervention scenarios (Base case, Scenario A, A1, B, B1)
-    -   Complete documentation
-    -   Example analysis comparing all scenarios
