@@ -517,8 +517,7 @@ If you encounter issues not covered here:
 
 ### Model Assumptions
 
-1.  **Closed cohort after initial period**: Migration is modeled but
-    eventually stabilizes
+1.  **Open cohort**: Net migration and new births are modeled
 2.  **Age-dependent rates**: All transition rates vary by age group
 3.  **No recovery from T2D**: Once diagnosed, individuals cannot return
     to non-diabetic state (D0)
