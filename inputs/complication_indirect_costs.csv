@@ -1,0 +1,17 @@
+﻿age,dia,complication,income_loss,absenteeism
+age1,D1,none,679.1899244,5.7
+age1,D2,none,679.1899244,5.7
+age1,D1,macrovascular,1611.66311,13.52564194
+age1,D2,macrovascular,1592.60594,13.36570749
+age1,D1,microvascular,1744.211792,14.63803696
+age1,D2,microvascular,1648.088,13.83133239
+age1,D1,other,1371.522111,11.51029447
+age1,D2,other,1363.871515,11.44608799
+age2,D1,none,674.8914347,5.7
+age2,D2,none,674.8914347,5.7
+age2,D1,macrovascular,1693.791801,14.30543161
+age2,D2,macrovascular,1670.601964,14.10957482
+age2,D1,microvascular,1841.6427,15.55415116
+age2,D2,microvascular,1788.007986,15.10116293
+age2,D1,other,1353.445607,11.43093476
+age2,D2,other,1348.933865,11.39282948
