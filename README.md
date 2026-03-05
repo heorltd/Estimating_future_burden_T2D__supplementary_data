@@ -1,5 +1,9 @@
 # T2D TSV Engine - Minimal Implementation
 
+## Note
+
+Please see license file.
+
 ## Overview
 
 This is a minimal, standalone implementation of the Type 2 Diabetes
